@@ -1,1 +1,10 @@
-.env
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.user
+*.db
+*.log
+*.ipch
