@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR2.POO-Martín-RobotVex", "PR2.POO-Martín-RobotVex\PR2.POO-Martín-RobotVex.vcxproj", "{860159B1-A754-440E-8FD6-DF81B1DBC279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Debug|x64.ActiveCfg = Debug|x64
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Debug|x64.Build.0 = Debug|x64
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Debug|x86.ActiveCfg = Debug|Win32
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Debug|x86.Build.0 = Debug|Win32
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Release|x64.ActiveCfg = Release|x64
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Release|x64.Build.0 = Release|x64
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Release|x86.ActiveCfg = Release|Win32
+		{860159B1-A754-440E-8FD6-DF81B1DBC279}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AE144F-AEC8-45B5-B2ED-56130C243313}
+	EndGlobalSection
+EndGlobal
