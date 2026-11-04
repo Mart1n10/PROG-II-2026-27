@@ -9,7 +9,7 @@ private:
 	int id;
 	string destino;
 	double distancia;
-	Capsula* capsulas[10];
+	Capsula* capsulas[10]; // El array de 10 apuntadores que pide el PDF
 	int cantidadCapsulas;
 
 	double EnergiaTotal();

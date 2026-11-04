@@ -14,4 +14,3 @@ public:
 	void Cargar(double cantidad);
 	bool Consumir(double cantidad);
 };
-
